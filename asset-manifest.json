@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dtrikam-website/static/css/main.2cce8147.chunk.css",
-    "main.js": "/dtrikam-website/static/js/main.608bce94.chunk.js",
-    "main.js.map": "/dtrikam-website/static/js/main.608bce94.chunk.js.map",
+    "main.css": "/dtrikam-website/static/css/main.239a2d11.chunk.css",
+    "main.js": "/dtrikam-website/static/js/main.6bb910b4.chunk.js",
+    "main.js.map": "/dtrikam-website/static/js/main.6bb910b4.chunk.js.map",
     "runtime~main.js": "/dtrikam-website/static/js/runtime~main.dd7409c9.js",
     "runtime~main.js.map": "/dtrikam-website/static/js/runtime~main.dd7409c9.js.map",
-    "static/js/2.bb888b93.chunk.js": "/dtrikam-website/static/js/2.bb888b93.chunk.js",
-    "static/js/2.bb888b93.chunk.js.map": "/dtrikam-website/static/js/2.bb888b93.chunk.js.map",
+    "static/js/2.cf6bf4b8.chunk.js": "/dtrikam-website/static/js/2.cf6bf4b8.chunk.js",
+    "static/js/2.cf6bf4b8.chunk.js.map": "/dtrikam-website/static/js/2.cf6bf4b8.chunk.js.map",
     "index.html": "/dtrikam-website/index.html",
-    "precache-manifest.1f69b1758b722813ed5dfc89ae2abe8f.js": "/dtrikam-website/precache-manifest.1f69b1758b722813ed5dfc89ae2abe8f.js",
+    "precache-manifest.988c86d8bc0f87ecfcc51f641957f3f1.js": "/dtrikam-website/precache-manifest.988c86d8bc0f87ecfcc51f641957f3f1.js",
     "service-worker.js": "/dtrikam-website/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/dtrikam-website/static/css/main.2cce8147.chunk.css.map",
+    "static/css/main.239a2d11.chunk.css.map": "/dtrikam-website/static/css/main.239a2d11.chunk.css.map",
     "static/media/logo.svg": "/dtrikam-website/static/media/logo.5d5d9eef.svg"
   }
 }

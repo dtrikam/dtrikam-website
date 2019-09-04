@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dtrikam-website/precache-manifest.1f69b1758b722813ed5dfc89ae2abe8f.js"
+  "/dtrikam-website/precache-manifest.988c86d8bc0f87ecfcc51f641957f3f1.js"
 );
 
 self.addEventListener('message', (event) => {
